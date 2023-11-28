@@ -1,7 +1,7 @@
 
 # Port_Folio
 
-It is PortFolio Website.It has been made using HTML and CSS.In this Website,I have added Technical stacks that user is currently working or user has worked. I have added the Projects of user's that has made or currently working on it. this website is like a resume means recruiters can see and hire the deserving guy.u can also add your information in this project by editing and make your own portfolio. also I have added the contact form because if anyone wants to cnotact user then it is possible to contact with user.
+It is PortFolio Website.It has been made using HTML and CSS.In this Website,I have added Technical stacks that user is currently working or user has worked. I have added the Projects of user's that has made or currently working on it. this website is like a resume means recruiters can see and hire the deserving guy.u can also add your information in this project by editing and make your own portfolio. also I have added the contact form because if anyone wants to contact user then it is possible to contact with user.
 
 
 ## Authors
